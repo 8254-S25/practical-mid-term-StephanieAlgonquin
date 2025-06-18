@@ -251,7 +251,7 @@ Take a screenshot  **end.jpg**,  and upload the jpg file to GitHub **NOW**.
 
 Using `sftp` or `Filezilla`, transfer the files **`pr.txt,pr1.txt,pr2.txt,pr3.txt,pr4.txt,pr5.txt` to your laptop then upload them to GitHub. No Zip file, only text files, ******zip files will not be graded**.** 
 
-**Upload the two jpg files wpress.jpg and phpmyadmin.jpg to GitHub.** These two files have errors. **
+**Upload the two jpg files wpress.jpg and phpmyadmin.jpg to GitHub. ** These two files have errors. **
 
 ----------
 
