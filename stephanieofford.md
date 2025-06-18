@@ -251,23 +251,9 @@ Take a screenshot  **end.jpg**,  and upload the jpg file to GitHub **NOW**.
 
 Using `sftp` or `Filezilla`, transfer the files **`pr.txt,pr1.txt,pr2.txt,pr3.txt,pr4.txt,pr5.txt` to your laptop then upload them to GitHub. No Zip file, only text files, ******zip files will not be graded**.** 
 
-**Upload the two jpg files wpress.jpg and phpmyadmin.jpg to GitHub.**
+**Upload the two jpg files wpress.jpg and phpmyadmin.jpg to GitHub.** These two files have errors. **
 
 ----------
-
-**Edit this md file to only include the questions numbers and your answers as in .**
-
-**1.**
-
-```
-
-```
-
-**2. What command do you use to see a directory listing that includes the permissions of the files?**
-
-```
-
-```
 
 
 
